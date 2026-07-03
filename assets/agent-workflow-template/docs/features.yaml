@@ -1,0 +1,15 @@
+# Durable user-visible feature inventory.
+# Do not list one-off copy changes, internal-only refactors, or temporary experiments.
+
+features:
+  - id: example-feature
+    name: Example Feature
+    status: planned
+    owner_module: $PRIMARY_MODULE
+    entrypoints:
+      - TODO
+    docs:
+      - docs/modules/$PRIMARY_MODULE.md
+    tests:
+      - TODO
+    last_updated: $TODAY

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic Workflow Bootstrap"
+  short_description: "Set up reusable agent workflow docs"
+  default_prompt: "Use $agentic-workflow-bootstrap to install an agent documentation and iteration workflow in this repository."
